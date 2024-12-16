@@ -18,7 +18,7 @@ Key Features:
 ## 🛠️ **Technologies Used**
 
 
-## The Team
+## **The Team**
 ````
 Christiano
 Enrique
