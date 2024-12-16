@@ -15,5 +15,12 @@ Key Features:
 
 ---
 
-## 🛠️ **Technologies Used*
+## 🛠️ **Technologies Used**
 
+
+## The Team
+````
+Christiano
+Enrique
+Frederick
+````
